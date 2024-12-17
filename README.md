@@ -12,11 +12,6 @@ This is a solution to the Base Apparel coming soon page challenge on Frontend Me
     Show your support
 
 **Setup**
-Follow these steps to set up the project:
-
-Clone the project repository using the following command:
-
-  git clone https://github.com/AdrianoEscarabote/frontendmentor-challenges/tree/main/base-apparel-coming-soon-page
 
 Navigate to the project's root directory:
 
